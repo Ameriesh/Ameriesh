@@ -3,8 +3,7 @@
 # 👩‍💻 NINMAZOU TCHOFFO AMERIE SHELLA
 ### Full-Stack JavaScript Developer | React.js • Next.js • Node.js | Tailwind CSS Lover
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerie-shella-ninmazou-tchoffo)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com) <!-- ← mets ton vrai email ici -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/tonnuméro) <!-- ← mets ton numéro si tu veux -->
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amerieninmazou@gmail.com) <!-- ← mets ton vrai email ici -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;React+%26+Next.js+Enthusiast;Full-Stack+JavaScript+Developer;Clean+Code+%26+Great+UI+Explorer" alt="Typing SVG" />
 </div>
 
@@ -74,4 +73,4 @@ J’écris du code le matin, je debug le soir… et parfois je rêve en **React 
 ---
 
 😊 **Last updated on January 13, 2026**  
-N'hésite pas à me contacter si tu veux collaborer sur un projet excitant ! 🚀
+N'hésite pas à me contacter si tu veux collaborer sur un projet excitant ! 
