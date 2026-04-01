@@ -1,21 +1,12 @@
 <div align="center">
  
 # 👩‍💻 NINMAZOU TCHOFFO AMERIE SHELLA
-### Full-Stack JavaScript Developer | React.js • Next.js • Node.js | Tailwind CSS Lover
+### Full-Stack JavaScript Developer | React.js • Next.js • Node.js | Tailwind CSS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerie-shella-ninmazou-tchoffo)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amerieninmazou@gmail.com) <!-- ← mets ton vrai email ici -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D084&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;React+%26+Next.js+Enthusiast;Full-Stack+JavaScript+Developer;Clean+Code+%26+Great+UI+Explorer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-- 🌱 Passionnée par le développement **full-stack JavaScript** et les interfaces modernes
-- 💻 Spécialisée **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**
-- 🎯 J’aime créer des applications **rapides**, **belles** et **accessibles**
-- 🔍 Toujours en train d’apprendre : TypeScript, performance web, animations, SSR/SSG…
-- 💡 Mon objectif : transformer des idées en produits **utiles** et **élégants**
-- 🎧 Je code mieux avec de la bonne musique et un bon café ☕
-
-> *“Code propre, UI qui claque, utilisateur heureux.”*
 
 ## 🌐 Connect with me
 <p align="center">
